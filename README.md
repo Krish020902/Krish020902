@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Krish020902
 - 👀 I’m interested in WEB DEVELOPMENT AND DSA.
-- 🌱 I’m currently learning node JS and DSA
 - 💞️ I’m looking to collaborate on any working projects
 - 📫 How to reach me krish.mehta.3822@gmail.com
 
