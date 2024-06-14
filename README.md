@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish Mehta</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **MERN stack**
+- 🔭 I’m currently working on **MERN stack**,**React Native**
 
 - 🌱 I’m currently learning **Competitive programing**
 
